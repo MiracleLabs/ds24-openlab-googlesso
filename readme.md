@@ -1,6 +1,6 @@
 # DS24 Open Lab | Simplifying Authentication by Integrating Google SSO in React
 
-This repository contains the lab for demonstrating Simplifying Authentication by Integrating Google SSO in React. It is one of the labs brought to you by Miracle's Innovation Labs.
+This repository contains the lab for demonstrating Simplifying Authentication by Integrating Google SSO in React application. It is one of the open labs brought to you by Miracle's Innovation Labs.
 
 ## Technologies Overview
 
